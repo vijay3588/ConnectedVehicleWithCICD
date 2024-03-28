@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  connectedvehicleapi.service:
+    image: ${DOCKER_REGISTRY-}connectedvehicleapiservice
+    build:
+      context: .
+      dockerfile: ConnectedVehicleAPI.Service/Dockerfile

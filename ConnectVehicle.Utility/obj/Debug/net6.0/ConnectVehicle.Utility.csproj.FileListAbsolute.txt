@@ -1,0 +1,12 @@
+C:\Users\A461865\source\Deployment\FinalSolutions\NewSolution\117035-VehiclePaaS-IaC-ConnectedVehicle-API\ConnectVehicle.Utility\bin\Debug\net6.0\ConnectVehicle.Utility.deps.json
+C:\Users\A461865\source\Deployment\FinalSolutions\NewSolution\117035-VehiclePaaS-IaC-ConnectedVehicle-API\ConnectVehicle.Utility\bin\Debug\net6.0\ConnectVehicle.Utility.dll
+C:\Users\A461865\source\Deployment\FinalSolutions\NewSolution\117035-VehiclePaaS-IaC-ConnectedVehicle-API\ConnectVehicle.Utility\bin\Debug\net6.0\ConnectVehicle.Utility.pdb
+C:\Users\A461865\source\Deployment\FinalSolutions\NewSolution\117035-VehiclePaaS-IaC-ConnectedVehicle-API\ConnectVehicle.Utility\obj\Debug\net6.0\ConnectVehicle.Utility.csproj.AssemblyReference.cache
+C:\Users\A461865\source\Deployment\FinalSolutions\NewSolution\117035-VehiclePaaS-IaC-ConnectedVehicle-API\ConnectVehicle.Utility\obj\Debug\net6.0\ConnectVehicle.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A461865\source\Deployment\FinalSolutions\NewSolution\117035-VehiclePaaS-IaC-ConnectedVehicle-API\ConnectVehicle.Utility\obj\Debug\net6.0\ConnectVehicle.Utility.AssemblyInfoInputs.cache
+C:\Users\A461865\source\Deployment\FinalSolutions\NewSolution\117035-VehiclePaaS-IaC-ConnectedVehicle-API\ConnectVehicle.Utility\obj\Debug\net6.0\ConnectVehicle.Utility.AssemblyInfo.cs
+C:\Users\A461865\source\Deployment\FinalSolutions\NewSolution\117035-VehiclePaaS-IaC-ConnectedVehicle-API\ConnectVehicle.Utility\obj\Debug\net6.0\ConnectVehicle.Utility.csproj.CoreCompileInputs.cache
+C:\Users\A461865\source\Deployment\FinalSolutions\NewSolution\117035-VehiclePaaS-IaC-ConnectedVehicle-API\ConnectVehicle.Utility\obj\Debug\net6.0\ConnectVehicle.Utility.dll
+C:\Users\A461865\source\Deployment\FinalSolutions\NewSolution\117035-VehiclePaaS-IaC-ConnectedVehicle-API\ConnectVehicle.Utility\obj\Debug\net6.0\refint\ConnectVehicle.Utility.dll
+C:\Users\A461865\source\Deployment\FinalSolutions\NewSolution\117035-VehiclePaaS-IaC-ConnectedVehicle-API\ConnectVehicle.Utility\obj\Debug\net6.0\ConnectVehicle.Utility.pdb
+C:\Users\A461865\source\Deployment\FinalSolutions\NewSolution\117035-VehiclePaaS-IaC-ConnectedVehicle-API\ConnectVehicle.Utility\obj\Debug\net6.0\ref\ConnectVehicle.Utility.dll

@@ -1,0 +1,12 @@
+C:\Users\A461865\source\Deployment\FinalSolutions\NewSolution\117035-VehiclePaaS-IaC-ConnectedVehicle-API\ConnectVehicle.Data\obj\Debug\net6.0\ConnectVehicle.Data.csproj.AssemblyReference.cache
+C:\Users\A461865\source\Deployment\FinalSolutions\NewSolution\117035-VehiclePaaS-IaC-ConnectedVehicle-API\ConnectVehicle.Data\obj\Debug\net6.0\ConnectVehicle.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A461865\source\Deployment\FinalSolutions\NewSolution\117035-VehiclePaaS-IaC-ConnectedVehicle-API\ConnectVehicle.Data\obj\Debug\net6.0\ConnectVehicle.Data.AssemblyInfoInputs.cache
+C:\Users\A461865\source\Deployment\FinalSolutions\NewSolution\117035-VehiclePaaS-IaC-ConnectedVehicle-API\ConnectVehicle.Data\obj\Debug\net6.0\ConnectVehicle.Data.AssemblyInfo.cs
+C:\Users\A461865\source\Deployment\FinalSolutions\NewSolution\117035-VehiclePaaS-IaC-ConnectedVehicle-API\ConnectVehicle.Data\obj\Debug\net6.0\ConnectVehicle.Data.csproj.CoreCompileInputs.cache
+C:\Users\A461865\source\Deployment\FinalSolutions\NewSolution\117035-VehiclePaaS-IaC-ConnectedVehicle-API\ConnectVehicle.Data\bin\Debug\net6.0\ConnectVehicle.Data.deps.json
+C:\Users\A461865\source\Deployment\FinalSolutions\NewSolution\117035-VehiclePaaS-IaC-ConnectedVehicle-API\ConnectVehicle.Data\bin\Debug\net6.0\ConnectVehicle.Data.dll
+C:\Users\A461865\source\Deployment\FinalSolutions\NewSolution\117035-VehiclePaaS-IaC-ConnectedVehicle-API\ConnectVehicle.Data\bin\Debug\net6.0\ConnectVehicle.Data.pdb
+C:\Users\A461865\source\Deployment\FinalSolutions\NewSolution\117035-VehiclePaaS-IaC-ConnectedVehicle-API\ConnectVehicle.Data\obj\Debug\net6.0\ConnectVehicle.Data.dll
+C:\Users\A461865\source\Deployment\FinalSolutions\NewSolution\117035-VehiclePaaS-IaC-ConnectedVehicle-API\ConnectVehicle.Data\obj\Debug\net6.0\refint\ConnectVehicle.Data.dll
+C:\Users\A461865\source\Deployment\FinalSolutions\NewSolution\117035-VehiclePaaS-IaC-ConnectedVehicle-API\ConnectVehicle.Data\obj\Debug\net6.0\ConnectVehicle.Data.pdb
+C:\Users\A461865\source\Deployment\FinalSolutions\NewSolution\117035-VehiclePaaS-IaC-ConnectedVehicle-API\ConnectVehicle.Data\obj\Debug\net6.0\ref\ConnectVehicle.Data.dll
